@@ -30,4 +30,6 @@ brew install zsh
 && brew install --cask cakebrew
 && brew install --cask bluestacks
 && brew install --cask transmission
+&& brew install --cask postgres-unofficial
+&& brew install --cask dbeaver-community
 ```
