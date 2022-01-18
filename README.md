@@ -1,8 +1,8 @@
 # Brew Setup
 
 ```
-brew install zsh
-& brew install ffmpeg
+brew install zsh \
+&& brew install ffmpeg
 & brew install imagemagick
 & brew install youtube-dl
 & brew install mitmproxy
