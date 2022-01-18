@@ -10,6 +10,7 @@ brew install zsh
 && brew install asdf
 && brew install scrcpy
 && brew install --cask google-chrome
+&& brew install --cask firefox
 && brew install --cask charles
 && brew install --cask android-studio
 && brew install --cask keka
@@ -28,4 +29,5 @@ brew install zsh
 && brew install --cask discord
 && brew install --cask cakebrew
 && brew install --cask bluestacks
+&& brew install --cask transmission
 ```
