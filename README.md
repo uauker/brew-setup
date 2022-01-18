@@ -27,4 +27,5 @@ brew install zsh
 && brew install --cask little-snitch
 && brew install --cask discord
 && brew install --cask cakebrew
+&& brew install --cask bluestacks
 ```
