@@ -9,6 +9,7 @@ brew install zsh \
 && brew install curl \
 && brew install asdf \
 && brew install scrcpy \
+&& brew install android-platform-tools \
 && brew install --cask google-chrome \
 && brew install --cask firefox \
 && brew install --cask charles \
