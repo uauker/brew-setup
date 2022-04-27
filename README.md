@@ -5,6 +5,7 @@ brew install zsh \
 && brew install ffmpeg \
 && brew install imagemagick \
 && brew install youtube-dl \
+&& brew install yt-dlp \
 && brew install mitmproxy \
 && brew install curl \
 && brew install asdf \
