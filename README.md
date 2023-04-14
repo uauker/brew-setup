@@ -11,6 +11,7 @@ brew install zsh \
 && brew install asdf \
 && brew install scrcpy \
 && brew install android-platform-tools \
+&& brew install gh \
 && brew install --cask google-chrome \
 && brew install --cask firefox \
 && brew install --cask charles \
