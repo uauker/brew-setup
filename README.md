@@ -12,6 +12,7 @@ brew install zsh \
 && brew install scrcpy \
 && brew install android-platform-tools \
 && brew install gh \
+&& brew install rom-tools \
 && brew install --cask google-chrome \
 && brew install --cask firefox \
 && brew install --cask charles \
