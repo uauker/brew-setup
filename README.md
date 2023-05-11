@@ -37,3 +37,9 @@ brew install zsh \
 && brew install --cask postgres-unofficial \
 && brew install --cask dbeaver-community
 ```
+
+
+Additional Info
+```
+https://wiki.recalbox.com/en/tutorials/utilities/rom-conversion/chdman
+```
