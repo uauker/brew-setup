@@ -13,6 +13,7 @@ brew install zsh \
 && brew install android-platform-tools \
 && brew install gh \
 && brew install rom-tools \
+&& brew install btop \
 && brew install --cask brave-browser \
 && brew install --cask google-chrome \
 && brew install --cask firefox \
