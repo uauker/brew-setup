@@ -38,7 +38,8 @@ brew install zsh \
 && brew install --cask transmission \
 && brew install --cask postgres-unofficial \
 && brew install --cask dbeaver-community \
-&& brew install --cask sqlitestudio
+&& brew install --cask sqlitestudio \
+&& brew install --cask orbstack
 ```
 
 
