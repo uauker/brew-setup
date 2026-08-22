@@ -39,6 +39,7 @@ brew install zsh \
 && brew install --cask postgres-unofficial \
 && brew install --cask dbeaver-community \
 && brew install --cask sqlitestudio \
+&& brew install --cask steipete/tap/codexbar \
 && brew install --cask orbstack
 ```
 
