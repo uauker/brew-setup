@@ -40,8 +40,7 @@ brew install zsh \
 && brew install --cask dbeaver-community \
 && brew install --cask sqlitestudio \
 && brew install --cask steipete/tap/codexbar \
-&& brew install --cask orbstack \
-&& brew install --cask steipete/tap/codexbar
+&& brew install --cask orbstack
 ```
 
 
